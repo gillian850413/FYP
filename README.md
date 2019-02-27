@@ -1,1 +1,2 @@
-# Game Industry Analysis with Python (Mainly focus on console games)
+# Game Industry Analysis with Python 
+Mainly focus on console games
